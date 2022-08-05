@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## 학습한 내용과 앞으로 학습할 내용
 
-You can use the [editor on GitHub](https://github.com/Din0lee/Din0lee.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+학습한 내용
+- JavaScript,Css,Html을 활용한 기본적인 웹 페이지 구현
+- PyScript(Matplotlib,seaborn)과 Google Chart를 이용한 통계 프로그램 구현
+- React를 활용한 웹 프레임워크 구성 방법
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+학습할 내용
+- Google Analytics를 활용한 웹 활동 분석
+- API 만들기
+- JSX
 
 ### Markdown
 
