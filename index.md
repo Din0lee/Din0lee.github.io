@@ -36,7 +36,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 [Test 페이지로 이동](https://din0lee.github.io/test_page)
 
-[HTML 테스트 페이지로 이동](https://din0lee.github.io/test_page_2
+[HTML 테스트 페이지로 이동](https://din0lee.github.io/test_page_2)
 
 ### Jekyll Themes
 
