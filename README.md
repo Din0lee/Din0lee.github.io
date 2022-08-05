@@ -1,5 +1,7 @@
 ### Din0lee's homepage
 
+
+
 ## 학습한 내용과 앞으로 학습할 내용
 
 학습한 내용
@@ -18,10 +20,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
