@@ -2,7 +2,17 @@
 
 
 
-## 학습한 내용과 앞으로 학습할 내용
+## 활용가능한 언어
+- Python
+- C,C++,C#
+- Java, php
+
+## 기술 경험
+- Unity Engine을 활용한 게임 개발(개별 프로그램, 모바일 어플리케이션)
+- React를 활용한 웹 기초 개발
+
+
+## 최근 학습한 내용과 앞으로 학습할 내용
 
 학습한 내용
 - JavaScript,Css,Html을 활용한 기본적인 웹 페이지 구현
@@ -13,6 +23,16 @@
 - Google Analytics를 활용한 웹 활동 분석
 - API 만들기
 - JSX
+
+## 기타 역량
+- 국유재산 관리프로그램 개발 참여 경험, 공기업 단기 사무보조 경험
+- VR카페 아르바이트 6개월 경험, 번역 아르바이트 경험
+- 컴활1급/SQLD/토익820
+
+## 외부 계정
+
+티스토리 블로그 : [https://code-ing-diary.tistory.com/](https://code-ing-diary.tistory.com/)
+
 
 ## Markdown
 
