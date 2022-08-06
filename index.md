@@ -3,12 +3,16 @@
 
 
 ## 활용가능한 언어
+
 - Python
 - C,C++,C#
 - Java, php
 
 ## 기술 경험
+
 - Unity Engine을 활용한 게임 개발(개별 프로그램, 모바일 어플리케이션)
+- Python을 활용한 데이터 분석 및 시각화
+- AWS Lightsail, Azure 사용 경험
 - React를 활용한 웹 기초 개발
 
 
