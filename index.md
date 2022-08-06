@@ -33,7 +33,7 @@
 - VR카페 아르바이트 6개월 경험, 번역 아르바이트 경험
 - 컴활1급/SQLD/토익820
 
-## 외부 계정
+### 외부 계정
 
 티스토리 블로그 : [https://code-ing-diary.tistory.com/](https://code-ing-diary.tistory.com/)
 
