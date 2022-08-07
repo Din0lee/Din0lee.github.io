@@ -43,7 +43,7 @@
 [HTML 테스트 페이지로 이동](https://din0lee.github.io/test_page_2)
 
 
-[YU 로고](https://www.yu.ac.kr/_res/yu/main/etc/img-logo.svg)
+![YU 로고](https://www.yu.ac.kr/_res/yu/main/etc/img-logo.svg)
 
 ## Markdown
 
