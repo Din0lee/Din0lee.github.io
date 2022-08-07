@@ -43,7 +43,7 @@
 [HTML 테스트 페이지로 이동](https://din0lee.github.io/test_page_2)
 
 
-![YU 로고](https://postfiles.pstatic.net/MjAyMTAxMjBfMTk2/MDAxNjExMTIxMjAxMzQ0.Pz6kc7AV76ovrhkSYwjcH5RGa8srCIfelr8qVO7aZT4g.yF0Xe2wJXOjbQv3_EER12BjEurxwLN-AO87ClZvTS30g.JPEG.w_1491/18723584_1319588728096217_5271405858520039424_n.jpg?type=w773)
+![테스트용 이미지](https://postfiles.pstatic.net/MjAyMTAxMjBfMTk2/MDAxNjExMTIxMjAxMzQ0.Pz6kc7AV76ovrhkSYwjcH5RGa8srCIfelr8qVO7aZT4g.yF0Xe2wJXOjbQv3_EER12BjEurxwLN-AO87ClZvTS30g.JPEG.w_1491/18723584_1319588728096217_5271405858520039424_n.jpg?type=w773)
 
 ## Markdown
 
