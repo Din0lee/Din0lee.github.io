@@ -19,7 +19,7 @@
 ## 최근 학습한 내용과 앞으로 학습할 내용
 
 학습한 내용
-- JavaScript,Css,Html을 활용한 기본적인 웹 페이지 구현
+- JavaScript,HTML,css을 활용한 기본적인 웹 페이지 구현
 - PyScript(Matplotlib,seaborn)과 Google Chart를 이용한 통계 프로그램 구현
 - React를 활용한 웹 프레임워크 구성 방법
 
