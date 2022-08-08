@@ -6,7 +6,7 @@
 
 - Python
 - C,C++,C#
-- Java, php
+- Java, PHP
 
 ## 기술 경험
 
